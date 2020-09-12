@@ -1,6 +1,15 @@
 # CartmanBot
 
 # Repository Files
+The followings are the file you can find in this repository and their descriptions.
+
+README.md - Descriptions of contents of the repository
+
+Module 5 - Capstone Project - Cartman Bot.ipynb - Module 5 final project's Google Colab notebook
+
+Images - Collections of graphs and images produced during the project
+
+Presentation.odf - High-level presentation of methodology and recommendations for non-technical stakeholders
 
 # Project Motivation
 In this project, I developed a chatbot that mimics Eric Cartman, a character from the South Park animated series. The goal of this project is two fold -
