@@ -51,9 +51,11 @@ Although this model captured typical Eric Cartman's lines, the output from the c
 # Training the Model - Microsoft DialoGPT
 The second model that I used was Microsoft DialoGPT model which is based on OpenAI's GPT2 model and the Hugging Face PyTorch transformer. Before training this model, I converted the original dataframe in the way that every Cartman's line has 7 previous dialogues in the same row. The purpose is to create context around Cartman's lines. By creating context, our chatbot can response better to the user's inputs during the chat.
 
-After training the model, I deployed the chatbot in a temporary chat app by using JupyterDash package. A sample chat with CartmanBot can be seen below - 
+After training the model, I deployed the chatbot in a temporary chat app by using JupyterDash package. A few sample chats with CartmanBot can be seen below - 
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/ChatterBot.JPG)
+![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat1.JPG)
+![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat2.JPG)
+![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat3.JPG)
 
 # Areas for Improvements
 
