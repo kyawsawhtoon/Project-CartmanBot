@@ -9,7 +9,7 @@ Module 5 - Capstone Project - Cartman Bot.ipynb - Module 5 final project's Googl
 
 Images - Collections of graphs and images produced during the project
 
-Presentation.odf - High-level presentation of methodology and recommendations for non-technical stakeholders
+Presentation.pdf - High-level presentation of methodology and recommendations for non-technical stakeholders
 
 # Project Motivation
 In this project, I developed a chatbot that mimics Eric Cartman, a character from the South Park animated series. The goal of this project is two fold -
