@@ -31,20 +31,20 @@ Before training my model, I performed the following data scrubbing tasks on my d
 The following data exploration methods were also used to better understand the dataset - 
 1. Investigate which characters speak the most in the series
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/Most_lines.png)
+![alt text](https://user-images.githubusercontent.com/29743560/93000567-49c57c00-f4f7-11ea-9f48-923b02c049f9.png)
 
 2. Analyze which words Eric Cartman uses the most
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/word_cloud.png)
+![alt text](https://user-images.githubusercontent.com/29743560/93000558-48944f00-f4f7-11ea-8709-acf78a1056da.png)
 
 3. Find out which characters Eric Cartman interacts with the most
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/Most_Interact.png)
+![alt text](https://user-images.githubusercontent.com/29743560/93000566-49c57c00-f4f7-11ea-9ed2-6405f8368d72.png)
 
 # Training the Model - Chatterbot Model
 The first NLP model that I explored was Chatterbot. The result for this model can be seen below - 
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/ChatterBot.JPG)
+![alt text](https://user-images.githubusercontent.com/29743560/93000563-49c57c00-f4f7-11ea-845c-05a7f6ebd32f.JPG)
 
 Although this model captured typical Eric Cartman's lines, the output from the chatbot is not very responsive to the user's inputs.
 
@@ -53,9 +53,9 @@ The second model that I used was Microsoft DialoGPT model which is based on Open
 
 After training the model, I deployed the chatbot in a temporary chat app by using JupyterDash package. A few sample chats with CartmanBot can be seen below - 
 
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat1.JPG)
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat2.JPG)
-![alt text](https://github.com/kyawsawhtoon/CartmanBot/blob/master/chat3.JPG)
+![alt text](https://user-images.githubusercontent.com/29743560/93000560-492ce580-f4f7-11ea-898b-38df86f84437.JPG)
+![alt text](https://user-images.githubusercontent.com/29743560/93000561-492ce580-f4f7-11ea-89a9-ad698678d675.JPG)
+![alt text](https://user-images.githubusercontent.com/29743560/93000562-492ce580-f4f7-11ea-8a12-d07a904724ed.JPG)
 
 # Areas for Improvements
 
