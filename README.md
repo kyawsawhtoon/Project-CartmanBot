@@ -62,7 +62,13 @@ The second model that I used was Microsoft DialoGPT model which is based on Open
 
 After training the model, I deployed the chatbot in a temporary chat app by using JupyterDash package. A few sample chats with CartmanBot can be seen below - 
 
+Before deploying to JupyterDash chat app -
+
 ![alt text](https://user-images.githubusercontent.com/29743560/93000560-492ce580-f4f7-11ea-898b-38df86f84437.JPG)
+
+
+After deploying to JupyterDash chat app -
+
 ![alt text](https://user-images.githubusercontent.com/29743560/93000561-492ce580-f4f7-11ea-89a9-ad698678d675.JPG)
 ![alt text](https://user-images.githubusercontent.com/29743560/93000562-492ce580-f4f7-11ea-8a12-d07a904724ed.JPG)
 
